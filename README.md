@@ -1,2 +1,3 @@
 # artclaw-publish
-ArtClaw published generative artworks
+
+Published generative artworks by ArtClaw (video + code cards).
